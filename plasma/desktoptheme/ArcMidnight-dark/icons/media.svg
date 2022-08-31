@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="media.svg"
    id="svg67"
    viewBox="0 0 22 22"
@@ -35,9 +35,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="12.128679"
-     inkscape:cx="41.791208"
-     inkscape:zoom="3.7926638"
+     inkscape:cy="20.042372"
+     inkscape:cx="31.694914"
+     inkscape:zoom="5.3636366"
      showgrid="true"
      id="namedview69"
      inkscape:window-height="1005"
@@ -50,7 +50,9 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#c8c8c8"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#c8c8c8">
     <inkscape:grid
        id="grid878"
        type="xygrid" />
@@ -244,7 +246,7 @@
     <path
        id="path989"
        style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       d="M 12,34 A 10,10 0 0 0 2,44 10,10 0 0 0 12,54 10,10 0 0 0 22,44 10,10 0 0 0 12,34 Z m 0,2 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 z" />
+       d="M 12 34 A 10 10 0 0 0 2 44 A 10 10 0 0 0 12 54 A 10 10 0 0 0 22 44 A 10 10 0 0 0 12 34 z M 12 35 A 9 9 0 0 1 21 44 A 9 9 0 0 1 12 53 A 9 9 0 0 1 3 44 A 9 9 0 0 1 12 35 z " />
   </g>
   <g
      id="media-playback-playing">
@@ -266,7 +268,7 @@
     <path
        id="path5844"
        style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       d="M 36,34 A 10,10 0 0 0 26,44 10,10 0 0 0 36,54 10,10 0 0 0 46,44 10,10 0 0 0 36,34 Z m 0,2 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 z" />
+       d="M 36 34 A 10 10 0 0 0 26 44 A 10 10 0 0 0 36 54 A 10 10 0 0 0 46 44 A 10 10 0 0 0 36 34 z M 36 35 A 9 9 0 0 1 45 44 A 9 9 0 0 1 36 53 A 9 9 0 0 1 27 44 A 9 9 0 0 1 36 35 z " />
   </g>
   <g
      id="media-playback-stopped">
@@ -288,6 +290,6 @@
     <path
        id="path5937"
        style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       d="M 60,34 A 10,10 0 0 0 50,44 10,10 0 0 0 60,54 10,10 0 0 0 70,44 10,10 0 0 0 60,34 Z m 0,2 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 z" />
+       d="M 60 34 A 10 10 0 0 0 50 44 A 10 10 0 0 0 60 54 A 10 10 0 0 0 70 44 A 10 10 0 0 0 60 34 z M 60 35 A 9 9 0 0 1 69 44 A 9 9 0 0 1 60 53 A 9 9 0 0 1 51 44 A 9 9 0 0 1 60 35 z " />
   </g>
 </svg>
