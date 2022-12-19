@@ -4,7 +4,7 @@
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    sodipodi:docname="battery.svg"
    version="1.0"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    sodipodi:version="0.32"
    id="svg7229"
    height="22"
@@ -100,23 +100,24 @@
      gridtolerance="10000"
      inkscape:guide-bbox="true"
      showguides="true"
-     inkscape:window-y="40"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="936"
+     inkscape:window-height="1005"
      inkscape:window-width="1920"
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="107.75001"
-     inkscape:cx="-110.75001"
-     inkscape:zoom="1.9999999"
+     inkscape:cy="34.051613"
+     inkscape:cx="17.854447"
+     inkscape:zoom="22.627416"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#c8c8c8"
      id="base"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#c8c8c8">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -958,7 +959,7 @@
            id="g4160">
           <path
              id="rect4059"
-             style="fill:none;fill-rule:evenodd;stroke:#3d6590;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:none;fill-rule:evenodd;stroke:#221147;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 248.53572,451.50504 v 2 h -1 v 6 h 2 v 8 h 1 v -8 h 2 v -6 h -1 v -2 h -1 v 2 h -1 v -2 z"
              sodipodi:nodetypes="ccccccccccccccccc" />
           <path
@@ -992,7 +993,7 @@
            ry="0" />
       </g>
       <rect
-         style="opacity:1;fill:#3d6590;fill-rule:evenodd;stroke:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+         style="opacity:1;fill:#221147;fill-rule:evenodd;stroke:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
          id="rect2345"
          width="3"
          height="4"
